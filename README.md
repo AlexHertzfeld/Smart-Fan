@@ -4,6 +4,7 @@ For this project I created an oscillating fan that is temperature controlled and
 
 **Navigation Guide:**
 
-<u>Smart fan.pdf:</u> Includes full lab report of the project to learn more details over the creating proccess. 
+*Smart fan.pdf:*  Includes full lab report of the project to learn more details over the creating proccess. 
 
-<u>code.md:</u> Includes the full code written in C++.
+*code.md:*  Includes the full code written in C++.
+
